@@ -10,3 +10,4 @@ estruturas;
 ponteiros;
 alocação dinâmica;
 arquivos;
+compilaçao separada;
